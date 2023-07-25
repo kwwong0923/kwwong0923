@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hello!
 
 Welcome to my GitHub! My name is Ka Wai.  
