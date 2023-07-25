@@ -1,7 +1,7 @@
 # Hello!
 
 Welcome to my GitHub! My name is Ka Wai.  
-I started learning programming since 2022.  
+I started learning programming since 2022. I would like to share all my works on this platform to share the thought, and learn with each other.  
 I recently graduated from Centennial College with a Software Engineering Technician Diploma.  
 
 
