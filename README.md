@@ -1,15 +1,17 @@
 # Hello!
 
-Welcome to my GitHub! My name is Ka Wai.  
-I started learning programming since 2022. I would like to share all my works on this platform to share the thought, and learn with each other.  
+Welcome to my GitHub! My name is Ka Wai. 
+<- He is my lovely cat - Mochi
+I started learning programming since 2022.   
 I recently graduated from Centennial College with a Software Engineering Technician Diploma.  
-
-
+Currently, I am learning programming from YouTube and Udemy to perpare my career in programming field.  
+I am going to update all my works on GitHub, Feel free to take a look.  
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kawai-wong.herokuapp.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hkkawaiwong/)
 
+[Telegram](https://t.me/kwwonggggg)
 
 ## 🛠Skills
 C# | Java | Java Script | Python | HTML | CSS | SASS | React | Angular | Node.js | Express.js | SQL | PL/SQL | NoSQL |
