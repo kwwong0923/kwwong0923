@@ -8,7 +8,7 @@ I started coding since 2022. I'm interesting in web development and desktop appl
 
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [Personal Website](http://kawai-wong.herokuapp.com/)
-* ✉️  You can contact me at [kw.wong0923@gmail.com](mailto:kw.wong0923@gmail.com)
+* ✉️  You can contact me at [kw.wong0923@gmail.com](mailto:kw.wong0923@gmail.com), [Telegram](https://t.me/kwwonggggg)
 * 🧠  I'm learning React
 * ⚡  Did you see my icon, he is my lovely cat - Mochi
 
