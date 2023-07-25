@@ -1,4 +1,5 @@
-# Hello!
+# Hello! Ka Wai Wong
+### Full Stack Developer
 
 Welcome to my GitHub! My name is Ka Wai.  
 <- He is my lovely cat - Mochi  
