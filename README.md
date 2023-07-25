@@ -11,6 +11,9 @@ I recently graduated from Centennial College with a Software Engineering Technic
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kawai-wong.herokuapp.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hkkawaiwong/)
 
+
+## 🛠Skills
+C# | Java | Java Script | Python | HTML | CSS | SASS | React | Angular | Node.js | Express.js | SQL | PL/SQL | NoSQL |
 <!--
 **kwwong0923/kwwong0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
