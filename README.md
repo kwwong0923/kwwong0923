@@ -1,8 +1,8 @@
 # Hello!
 
 Welcome to my GitHub! My name is Ka Wai.  
-<- He is my lovely cat - Mochi
-I started learning programming since 2022.   
+<- He is my lovely cat - Mochi  
+I started coding since 2022.   
 I recently graduated from Centennial College with a Software Engineering Technician Diploma.  
 Currently, I am learning programming from YouTube and Udemy to perpare my career in programming field.  
 I am going to update all my works on GitHub, Feel free to take a look.  
