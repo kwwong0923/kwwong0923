@@ -1,4 +1,4 @@
-# Hello! Ka Wai Wong
+## Hello! Ka Wai Wong
 ### Full Stack Developer
 
 Welcome to my GitHub! My name is Ka Wai.  
