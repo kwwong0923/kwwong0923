@@ -1,6 +1,4 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ka Wai Wong
-===================================================================================================================================
-
 ### Full Stack Developer
 
 I started coding since 2022. I'm interesting in web development and desktop application development. I recently graduated from Centennial College with a Software Engineering Technician Diploma. Currently, I am learning programming from YouTube and Udemy to perpare my career in programming field. I am going to update all my works on GitHub, Feel free to take a look.
