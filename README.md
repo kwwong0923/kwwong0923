@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I started coding since 2022. I'm interesting in web development and desktop application development. I recently graduated from Centennial College with a Software Engineering Technician Diploma. Currently, I am learning programming from YouTube and Udemy to perpare my career in programming field. I am going to update all my works on GitHub, Feel free to take a look.
 
 * 🌍  I'm based in Toronto
-* 🖥️  See my portfolio at [Personal Website](http://kawai-wong.herokuapp.com/)
+* 🖥️  See my portfolio at [Personal Website](https://kawaiwong.netlify.app/)
 * ✉️  You can contact me at [kw.wong0923@gmail.com](mailto:kw.wong0923@gmail.com), [Telegram](https://t.me/kwwonggggg)
 * 🧠  I'm learning React
 * ⚡  Did you see my icon, he is my lovely cat - Mochi
